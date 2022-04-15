@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thrxxstrs
-- 👀 I’m interested in music and teaching myself how to code 
+- 👀 I’m interested in music and learning the art of Web Development
 - 🌱 I’m currently learning the basics of front and back end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @thrxxstxrsbusiness@gmail.com
